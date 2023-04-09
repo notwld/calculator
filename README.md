@@ -1,2 +1,2 @@
 # Calculator
-Learning Kotlin by making calculator
+Learning Kotlin by making a calculator
